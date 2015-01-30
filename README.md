@@ -1,3 +1,8 @@
+# Why did I fork this ?
+
+This a project is a php clean coded web application decoupled from the framework it uses.
+Check the conference here : https://www.youtube.com/watch?v=bTawx0TGIj8
+
 # Doucheswag
 
 Swag for douchebags.
